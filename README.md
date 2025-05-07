@@ -1,2 +1,2 @@
 # HCIA-Projects
-Machine Learning Algorirthm For Starters in Machine Learning
+Here will be projects of Machine Learning that is done by me in HCIA-AI course .
